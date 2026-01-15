@@ -1,3 +1,0 @@
-[32mINFO    [0m root:test_ppt.py:54 ✅지시사항 공백 입력 → 생성 버튼 활성화
-[32mINFO    [0m root:test_ppt.py:59 ✅지시사항 2000자 입력 → 생성 버튼 활성화
-[32mINFO    [0m root:test_ppt.py:64 ✅지시사항 2001자 입력 → 생성 버튼 비활성화

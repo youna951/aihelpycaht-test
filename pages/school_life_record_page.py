@@ -1,13 +1,13 @@
 '''
 작성자 : 신윤아
 '''
+import os
+import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from pages.base_page import BasePage
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.common.keys import Keys
-import os
-import time
+
+
 
 class SchoolLifeRecordPage(BasePage):
     def __init__(self,driver):
