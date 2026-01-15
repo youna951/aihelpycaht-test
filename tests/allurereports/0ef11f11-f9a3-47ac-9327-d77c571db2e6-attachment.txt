@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_ppt.py:143 ✅ 섹션 수 1 입력 → 생성 버튼 활성화

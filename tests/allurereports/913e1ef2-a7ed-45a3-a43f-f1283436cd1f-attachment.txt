@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_school_record.py:134 ✅ 100MB이상 비허용 파일 업로드 UI 검증 완료

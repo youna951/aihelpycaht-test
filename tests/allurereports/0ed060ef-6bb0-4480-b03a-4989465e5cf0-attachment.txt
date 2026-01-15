@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_school_record.py:112 ✅ 추가입력 공백 입력 → 생성 버튼 활성화

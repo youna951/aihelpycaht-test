@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_school_record.py:40 ✅ 성취기준 사이트 새 창 검증 완료
